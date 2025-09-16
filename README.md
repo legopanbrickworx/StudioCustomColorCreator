@@ -6,6 +6,10 @@ Copyright (C) 2025  Lego Pan BrickWorx/Paul Lavallee
 
 LegoPan Brickworx Bricklink Stud.io Custom Color Generator for Windows version 1.0
 
+Thanks to Petrus G for your help finding the details on file locations and what to
+change in order to create these custom colors and inspiring me to write a script to
+automate the process! You know who you are :)
+
 ------------------------------------------------------------------------------------
 
 This script file is designed to create and add custom colors to Bricklink Stud.io.
